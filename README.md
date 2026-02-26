@@ -1,2 +1,3 @@
-# meu-primeiro-portifolio
-meu portfólio profissional de desenvolvedor de sistemas
+# Mayara e Rian
+## Estamos estudando desenvolvimento de sistemas
+## Python, HTML e Java
